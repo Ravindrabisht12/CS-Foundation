@@ -83,4 +83,4 @@ This table shows how the control unit would set signals for different instructio
 -   For pipeline questions, know which stage produces a required value. This is key for understanding forwarding.
 
 ---
-Prev ← `09_floating_point.md` | Next → `11_control_unit.md`
+Prev ← `05_floating_point.md` | Next → `07_control_unit.md` | Index: `README.md`

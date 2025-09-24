@@ -61,4 +61,4 @@ Given instruction: `LOAD R1, 12(R2)`
 -   For PC-relative addressing, remember that the PC is usually pointing to the *next* instruction (`PC+4` or `PC+instruction_size`) when the offset is calculated.
 
 ---
-Prev ← `06_isa_machine_instructions.md` | Next → `08_alu_integer_arithmetic.md`
+Prev ← `02_isa_machine_instructions.md` | Next → `04_alu_integer_arithmetic.md` | Index: `README.md`

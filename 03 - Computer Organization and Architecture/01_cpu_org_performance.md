@@ -60,4 +60,4 @@ Dynamic Power ≈ C × V² × f × activity.
 - Amdahl: diminishing returns as f shrinks.
 
 ---
-Prev ← `04_sequential_circuits.md` | Next → `06_isa_machine_instructions.md`
+Next → `02_isa_machine_instructions.md` | Index: `README.md`

@@ -63,4 +63,4 @@ Wallace tree: reduce partial products in O(log n) stages.
 - Memorize quick adders difference.
 
 ---
-Prev ← `07_addressing_modes.md` | Next → `09_floating_point.md`
+Prev ← `03_addressing_modes.md` | Next → `05_floating_point.md` | Index: `README.md`

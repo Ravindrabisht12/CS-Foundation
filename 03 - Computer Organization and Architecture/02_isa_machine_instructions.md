@@ -106,4 +106,4 @@ The size of the immediate field in an instruction limits the range of constants 
 -   Distinguish between the steps of effective address calculation and the actual memory access.
 
 ---
-Prev ← `05_cpu_org_performance.md` | Next → `07_addressing_modes.md`
+Prev ← `01_cpu_org_performance.md` | Next → `03_addressing_modes.md` | Index: `README.md`

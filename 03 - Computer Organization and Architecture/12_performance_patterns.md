@@ -75,4 +75,4 @@ Tag bits = Addr − (Index + Offset)
 Track patterns not individual errors: classification accelerates mastery.
 
 ---
-Prev ← `15_parallelism_basics.md` | Back to Index: `README.md`
+Prev ← `11_parallelism_basics.md` | Back to Index: `README.md`

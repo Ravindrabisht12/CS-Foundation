@@ -93,4 +93,4 @@ In multiprocessor systems, multiple CPUs may have copies of the same data in the
 -   Understand the trade-offs between capacity, associativity, and block size.
 
 ---
-Prev ← `12_pipelining_hazards.md` | Next → `14_io_interrupts_dma.md`
+Prev ← `08_pipelining_hazards.md` | Next → `10_io_interrupts_dma.md` | Index: `README.md`

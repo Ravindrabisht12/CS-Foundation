@@ -55,4 +55,4 @@ CPU time used = 2000 × 400μs = 0.8s per second (80% utilization) → Use inter
 - Remember interrupt save/restore overhead affects response time.
 
 ---
-Prev ← `13_memory_hierarchy.md` | Next → `15_parallelism_basics.md`
+Prev ← `09_memory_hierarchy.md` | Next → `11_parallelism_basics.md` | Index: `README.md`

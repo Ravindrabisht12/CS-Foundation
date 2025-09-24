@@ -36,4 +36,4 @@ CPU: Few complex cores, lower latency, high ILP.
 - Distinguish ILP (compiler/hardware) vs TLP (OS/architecture scheduling).
 
 ---
-Prev ← `14_io_interrupts_dma.md` | Next → `16_performance_patterns.md`
+Prev ← `10_io_interrupts_dma.md` | Next → `12_performance_patterns.md` | Index: `README.md`

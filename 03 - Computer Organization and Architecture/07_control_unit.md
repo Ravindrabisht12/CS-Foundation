@@ -79,4 +79,4 @@ A two-level microprogramming scheme. The top level (microcode) contains pointers
 -   Be able to trace the micro-operation sequence for a simple instruction and understand that each step corresponds to one microinstruction in a microprogrammed design.
 
 ---
-Prev ← `10_datapath_microoperations.md` | Next → `12_pipelining_hazards.md`
+Prev ← `06_datapath_microoperations.md` | Next → `08_pipelining_hazards.md` | Index: `README.md`

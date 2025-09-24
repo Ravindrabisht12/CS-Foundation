@@ -63,4 +63,4 @@ Preserve gradual underflow; avoid sudden loss of precision near zero.
 - Distinguish subnormal exponent field = 0.
 
 ---
-Prev ← `08_alu_integer_arithmetic.md` | Next → `10_datapath_microoperations.md`
+Prev ← `04_alu_integer_arithmetic.md` | Next → `06_datapath_microoperations.md` | Index: `README.md`

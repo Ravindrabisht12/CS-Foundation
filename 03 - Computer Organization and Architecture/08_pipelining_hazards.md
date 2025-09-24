@@ -88,4 +88,4 @@ Superscalar processors have multiple pipelines and can issue more than one instr
 -   Remember that forwarding solves most data hazards, but not all.
 
 ---
-Prev ← `11_control_unit.md` | Next → `13_memory_hierarchy.md`
+Prev ← `07_control_unit.md` | Next → `09_memory_hierarchy.md` | Index: `README.md`
