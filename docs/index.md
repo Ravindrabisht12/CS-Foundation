@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Start Learning
-      link: /01_Engineering_Mathematics/README
+      link: /01_Engineering_Mathematics/
     - theme: alt
       text: View on GitHub
       link: https://github.com/Ravindrabisht12/CS-Foundation
@@ -19,43 +19,43 @@ hero:
 features:
   - title: 📚 Engineering Mathematics
     details: Master Discrete Mathematics, Linear Algebra, Calculus, and Probability & Statistics with detailed explanations and examples.
-    link: /01_Engineering_Mathematics/README
+    link: /01_Engineering_Mathematics/
   
   - title: 🔌 Digital Logic
     details: Understand number systems, Boolean algebra, combinational circuits, and sequential logic design.
-    link: /02_Digital_Logic/README
+    link: /02_Digital_Logic/
   
   - title: 🖥️ Computer Organization
     details: Learn CPU organization, memory hierarchy, pipelining, and computer architecture fundamentals.
-    link: /03_Computer_Organization_and_Architecture/README
+    link: /03_Computer_Organization_and_Architecture/
   
   - title: 💻 Programming & Data Structures
     details: Master C programming, pointers, arrays, linked lists, trees, graphs, and essential data structures.
-    link: /04_Programming_and_Data_Structures/README
+    link: /04_Programming_and_Data_Structures/
   
   - title: ⚡ Algorithms
     details: Explore algorithm analysis, sorting, searching, dynamic programming, and graph algorithms.
-    link: /05_Algorithms/README
+    link: /05_Algorithms/
   
   - title: 🤖 Theory of Computation
     details: Study automata theory, regular languages, context-free languages, and Turing machines.
-    link: /06_Theory_of_Computation/README
+    link: /06_Theory_of_Computation/
   
   - title: 🔧 Compiler Design
     details: Learn lexical analysis, parsing, syntax-directed translation, and code generation.
-    link: /07_Compiler_Design/README
+    link: /07_Compiler_Design/
   
   - title: 🔄 Operating Systems
     details: Understand processes, threads, memory management, file systems, and synchronization.
-    link: /08_Operating_System/README
+    link: /08_Operating_System/
   
   - title: 🗄️ Database Systems
     details: Master DBMS concepts, ER modeling, normalization, SQL, and transaction management.
-    link: /09_Databases/README
+    link: /09_Databases/
   
   - title: 🌐 Computer Networks
     details: Learn network protocols, OSI layers, routing, transport layer, and network security.
-    link: /10_Computer_Networks/README
+    link: /10_Computer_Networks/
 ---
 
 ## About This Resource
@@ -71,16 +71,16 @@ This comprehensive collection covers all essential Computer Science topics for:
 
 | Subject | Topics Covered | Difficulty |
 |---------|---------------|------------|
-| [Engineering Mathematics](/01_Engineering_Mathematics/README) | Discrete Math, Linear Algebra, Calculus, Statistics | ⭐⭐⭐ |
-| [Digital Logic](/02_Digital_Logic/README) | Boolean Algebra, Circuits, Number Systems | ⭐⭐ |
-| [Computer Organization](/03_Computer_Organization_and_Architecture/README) | CPU, Memory, I/O, Pipelining | ⭐⭐⭐⭐ |
-| [Programming & DS](/04_Programming_and_Data_Structures/README) | C Programming, Arrays, Trees, Graphs | ⭐⭐⭐ |
-| [Algorithms](/05_Algorithms/README) | Sorting, Searching, DP, Graph Algorithms | ⭐⭐⭐⭐ |
-| [Theory of Computation](/06_Theory_of_Computation/README) | Automata, Languages, Turing Machines | ⭐⭐⭐⭐⭐ |
-| [Compiler Design](/07_Compiler_Design/README) | Lexing, Parsing, Code Generation | ⭐⭐⭐⭐ |
-| [Operating Systems](/08_Operating_System/README) | Processes, Memory, File Systems | ⭐⭐⭐⭐ |
-| [Databases](/09_Databases/README) | RDBMS, SQL, Normalization | ⭐⭐⭐ |
-| [Computer Networks](/10_Computer_Networks/README) | Protocols, Routing, Security | ⭐⭐⭐⭐ |
+| [Engineering Mathematics](/01_Engineering_Mathematics/) | Discrete Math, Linear Algebra, Calculus, Statistics | ⭐⭐⭐ |
+| [Digital Logic](/02_Digital_Logic/) | Boolean Algebra, Circuits, Number Systems | ⭐⭐ |
+| [Computer Organization](/03_Computer_Organization_and_Architecture/) | CPU, Memory, I/O, Pipelining | ⭐⭐⭐⭐ |
+| [Programming & DS](/04_Programming_and_Data_Structures/) | C Programming, Arrays, Trees, Graphs | ⭐⭐⭐ |
+| [Algorithms](/05_Algorithms/) | Sorting, Searching, DP, Graph Algorithms | ⭐⭐⭐⭐ |
+| [Theory of Computation](/06_Theory_of_Computation/) | Automata, Languages, Turing Machines | ⭐⭐⭐⭐⭐ |
+| [Compiler Design](/07_Compiler_Design/) | Lexing, Parsing, Code Generation | ⭐⭐⭐⭐ |
+| [Operating Systems](/08_Operating_System/) | Processes, Memory, File Systems | ⭐⭐⭐⭐ |
+| [Databases](/09_Databases/) | RDBMS, SQL, Normalization | ⭐⭐⭐ |
+| [Computer Networks](/10_Computer_Networks/) | Protocols, Routing, Security | ⭐⭐⭐⭐ |
 
 ## How to Use This Guide
 
