@@ -2,19 +2,28 @@
 
 This folder contains a structured study guide for Computer Networks, covering the fundamental concepts from the ground up.
 
-## Study Roadmap
+## Quick Topic Index
+| # | Topic | Description | Link |
+|---|-------|-------------|------|
+| 01 | Introduction & Layering | OSI/TCP-IP stacks, packet/circuit switching concepts | [📖 Study Material](01_introduction_and_layering) |
+| 02 | Data Link Layer | Framing, error detection, MAC protocols, Ethernet bridging | [📖 Study Material](02_data_link_layer) |
+| 03 | Network Layer - Routing | Routing protocols, shortest path, distance-vector, link-state | [📖 Study Material](03_network_layer_routing) |
+| 04 | Network Layer - Addressing | IP addressing, fragmentation, CIDR, ARP, DHCP, NAT | [📖 Study Material](04_network_layer_addressing) |
+| 05 | Transport Layer | Flow/congestion control, UDP, TCP, socket programming | [📖 Study Material](05_transport_layer) |
+| 06 | Application Layer | DNS, SMTP, HTTP, FTP, Email protocols | [📖 Study Material](06_application_layer) |
+| 📚 | External Resources | Curated learning materials and practice problems | [📚 Additional Resources](RESOURCES) |
 
-1.  **`01_introduction_and_layering.md`**: Covers the concept of layering, the OSI and TCP/IP protocol stacks, and the basics of packet, circuit, and virtual-circuit switching.
-2.  **`02_data_link_layer.md`**: Discusses framing, error detection techniques, Medium Access Control (MAC) protocols, and Ethernet bridging.
-3.  **`03_network_layer_routing.md`**: Explains routing protocols, including shortest path, flooding, distance-vector, and link-state routing.
-4.  **`04_network_layer_addressing.md`**: Details IP addressing, fragmentation, IPv4, CIDR notation, ARP, DHCP, ICMP, and Network Address Translation (NAT).
-5.  **`05_transport_layer.md`**: Covers the role of the transport layer, including flow control, congestion control, UDP, TCP, and the concept of sockets.
-6.  **`06_application_layer.md`**: Discusses common application layer protocols such as DNS, SMTP, HTTP, FTP, and Email.
+## Network Protocol Stack
+- **Application Layer**: User applications and protocols (HTTP, DNS, SMTP)
+- **Transport Layer**: End-to-end communication (TCP, UDP)
+- **Network Layer**: Routing and addressing (IP, ICMP, ARP)
+- **Data Link Layer**: Frame transmission and error detection
+- **Physical Layer**: Bit transmission over physical media
 
-## How to Use
+## Get Started
+👉 **Quick start**: Begin with [Introduction & Layering](01_introduction_and_layering)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
 
--   Follow the topics in numerical order for a coherent learning path.
--   Each file contains navigation links (`Prev`, `Next`, `Index`) at the bottom for easy browsing.
--   Check the `RESOURCES.md` file for a curated list of external learning materials to supplement your study.
-
-Happy learning!
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility

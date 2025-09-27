@@ -12,16 +12,16 @@ This module builds the foundation for Computer Organization. Follow the ordered 
 7. Floating-Point Basics (IEEE 754 Essentials)
 
 ## Index
-| # | Topic | File |
+| # | Topic | Link |
 |---|-------|------|
-|01| Number Systems & Data Representation | `01_number_systems.md` |
-|02| Boolean Algebra & Logic Identities | `02_boolean_algebra.md` |
-|03| Combinational Circuits | `03_combinational_circuits.md` |
-|04| Logic Minimization | `04_logic_minimization.md` |
-|05| Sequential Circuits | `05_sequential_circuits.md` |
-|06| Fixed-Point Arithmetic | `06_fixed_point_arithmetic.md` |
-|07| Floating-Point Basics | `07_floating_point_basics.md` |
-|R | Resources & Practice | `RESOURCES.md` |
+|01| Number Systems & Data Representation | [📖 Study Material](01_number_systems) |
+|02| Boolean Algebra & Logic Identities | [📖 Study Material](02_boolean_algebra) |
+|03| Combinational Circuits | [📖 Study Material](03_combinational_circuits) |
+|04| Logic Minimization | [📖 Study Material](04_logic_minimization) |
+|05| Sequential Circuits | [📖 Study Material](05_sequential_circuits) |
+|06| Fixed-Point Arithmetic | [📖 Study Material](06_fixed_point_arithmetic) |
+|07| Floating-Point Basics | [📖 Study Material](07_floating_point_basics) |
+|📚| Resources & Practice | [📚 Additional Resources](RESOURCES) |
 
 ## Core Exam Weight Focus
 - High yield: Boolean simplification, K-map grouping, sequential design timing, number conversions, overflow detection.
@@ -42,4 +42,10 @@ First Pass: Read definitions + solved examples
 Second Pass: Design from requirements (truth table → minimized → gate/netlist)
 Third Pass: Timed mixed mini-sets (10–15 questions)
 
-Quick start → Open `01_number_systems.md`.
+## Get Started
+👉 **Quick start**: Begin with [Number Systems & Data Representation](01_number_systems)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
+
+## About README.md vs index.md
+- **index.md**: Main landing page with navigation links (this file)
+- **README.md**: Backup/fallback content (identical to index.md for compatibility)

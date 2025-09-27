@@ -2,20 +2,27 @@
 
 This folder contains a structured study guide for the Theory of Computation (TOC), also known as Automata Theory. The topics are organized to build a strong foundation from basic models of computation to the limits of what can be computed.
 
-## Study Roadmap
+## Quick Topic Index
+| # | Topic | Description | Link |
+|---|-------|-------------|------|
+| 01 | Introduction to Automata | Symbols, alphabets, strings, languages, and Chomsky Hierarchy | [📖 Study Material](01_introduction_to_automata) |
+| 02 | Regular Languages & Finite Automata | Regular expressions, DFA, NFA, and their equivalence | [📖 Study Material](02_regular_languages_and_finite_automata) |
+| 03 | Context-Free Languages & PDA | Context-Free Grammars (CFG) and Pushdown Automata (PDA) | [📖 Study Material](03_context_free_languages_and_pushdown_automata) |
+| 04 | Pumping Lemma | Proving languages are not in specific classes | [📖 Study Material](04_pumping_lemma) |
+| 05 | Turing Machines | Universal model of computation | [📖 Study Material](05_turing_machines) |
+| 06 | Undecidability | Limits of computation and Halting Problem | [📖 Study Material](06_undecidability) |
+| 📚 | External Resources | Curated learning materials and practice problems | [📚 Additional Resources](RESOURCES) |
 
-1.  **`01_introduction_to_automata.md`**: Introduces the fundamental concepts of automata theory, including symbols, alphabets, strings, languages, and the Chomsky Hierarchy.
-2.  **`02_regular_languages_and_finite_automata.md`**: Covers regular expressions, Deterministic Finite Automata (DFA), Non-deterministic Finite Automata (NFA), and their equivalence.
-3.  **`03_context_free_languages_and_pushdown_automata.md`**: Details Context-Free Grammars (CFG) and Pushdown Automata (PDA), the model of computation for context-free languages.
-4.  **`04_pumping_lemma.md`**: Explains the Pumping Lemma for both regular and context-free languages, a key tool for proving that a language is *not* in a particular class.
-5.  **`05_turing_machines.md`**: Introduces the Turing Machine, a powerful and universal model of computation.
-6.  **`06_undecidability.md`**: Explores the limits of computation, including the Halting Problem and the concept of undecidable problems.
+## Key Concepts Covered
+- **Automata Models**: DFA, NFA, PDA, Turing Machines
+- **Language Classes**: Regular, Context-Free, Context-Sensitive, Recursively Enumerable
+- **Formal Proofs**: Pumping Lemma applications and undecidability proofs
+- **Computational Limits**: What problems can and cannot be solved
 
-## How to Use
+## Get Started
+👉 **Quick start**: Begin with [Introduction to Automata](01_introduction_to_automata)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
 
--   Start with the `README.md` in the parent `CS Foundation` directory for the overall structure.
--   Follow the topics in numerical order for a coherent learning path.
--   Each file contains navigation links (`Prev`, `Next`, `Index`) at the bottom to move between topics easily.
--   Check the `RESOURCES.md` file for a curated list of external learning materials.
-
-Happy learning!
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility

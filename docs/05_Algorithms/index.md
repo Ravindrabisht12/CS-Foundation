@@ -6,19 +6,24 @@ This folder contains a structured study guide for fundamental algorithms, design
 
 The topics are organized logically to build a strong foundation in algorithm design and analysis.
 
-1.  **`01_analysis_of_algorithms.md`**: Understanding Asymptotic Notation (`O`, `Ω`, `Θ`) and analyzing time and space complexity.
-2.  **`02_searching_sorting_hashing.md`**: Essential algorithms for data retrieval and ordering, including linear/binary search, various sorting algorithms (Bubble, Insertion, Selection, Merge, Quick, Heap), and hashing principles.
-3.  **`03_algorithm_design_techniques.md`**: Core strategies for solving complex problems.
-    -   **Greedy Algorithms**: Making locally optimal choices (e.g., Huffman Codes, Fractional Knapsack).
-    -   **Dynamic Programming**: Breaking down problems into overlapping subproblems (e.g., 0/1 Knapsack, Longest Common Subsequence).
-    -   **Divide and Conquer**: Splitting problems into smaller, independent subproblems (e.g., Merge Sort, Quick Sort).
-4.  **`04_graph_algorithms.md`**: Algorithms for traversing and analyzing graph data structures, including BFS, DFS, Minimum Spanning Trees (Prim's, Kruskal's), and Shortest Path algorithms (Dijkstra's, Bellman-Ford, Floyd-Warshall).
+## Quick Topic Index
+| # | Topic | Description | Link |
+|---|-------|-------------|------|
+| 01 | Analysis of Algorithms | Understanding Asymptotic Notation (O, Ω, Θ) and complexity analysis | [📖 Study Material](01_analysis_of_algorithms) |
+| 02 | Searching, Sorting & Hashing | Essential algorithms for data retrieval and ordering | [📖 Study Material](02_searching_sorting_hashing) |
+| 03 | Algorithm Design Techniques | Greedy, Dynamic Programming, Divide & Conquer strategies | [📖 Study Material](03_algorithm_design_techniques) |
+| 04 | Graph Algorithms | BFS, DFS, MST, Shortest Path algorithms | [📖 Study Material](04_graph_algorithms) |
+| 📚 | External Resources | Curated learning materials and practice problems | [📚 Additional Resources](RESOURCES) |
 
-## How to Use
+## Algorithm Design Techniques Covered
+- **Greedy Algorithms**: Making locally optimal choices (Huffman Codes, Fractional Knapsack)
+- **Dynamic Programming**: Breaking down problems into overlapping subproblems (0/1 Knapsack, LCS)
+- **Divide and Conquer**: Splitting problems into smaller, independent subproblems (Merge Sort, Quick Sort)
 
--   Start with the `README.md` in the parent `CS Foundation` directory for the overall structure.
--   Follow the topics in numerical order for a coherent learning path.
--   Each file contains navigation links (`Prev`, `Next`, `Index`) at the bottom to move between topics easily.
--   Check the `RESOURCES.md` file for a curated list of external learning materials.
+## Get Started
+👉 **Quick start**: Begin with [Analysis of Algorithms](01_analysis_of_algorithms)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
 
-Happy learning!
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility

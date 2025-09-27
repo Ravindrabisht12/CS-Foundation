@@ -19,21 +19,21 @@ A structured, exam‑oriented yet concept‑deep roadmap for mastering COA (GATE
 > Extra topics (Parallelism, Performance tuning) included for completeness & intuition though core GATE weight centers around ISA, Pipelining, and Memory.
 
 ## Quick Topic Index
-| # | Topic | File |
+| # | Topic | Link |
 |---|-------|------|
-|01| CPU Organization & Performance | `01_cpu_org_performance.md` |
-|02| ISA & Machine Instructions | `02_isa_machine_instructions.md` |
-|03| Addressing Modes | `03_addressing_modes.md` |
-|04| ALU & Integer Arithmetic | `04_alu_integer_arithmetic.md` |
-|05| Floating Point | `05_floating_point.md` |
-|06| Datapath & Micro-operations | `06_datapath_microoperations.md` |
-|07| Control Unit (Hardwired vs Microprogrammed) | `07_control_unit.md` |
-|08| Pipelining & Hazards | `08_pipelining_hazards.md` |
-|09| Memory Hierarchy | `09_memory_hierarchy.md` |
-|10| I/O, Interrupts & DMA | `10_io_interrupts_dma.md` |
-|11| Parallelism Basics | `11_parallelism_basics.md` |
-|12| Performance Patterns & Tips | `12_performance_patterns.md` |
-|R| External Resources | `RESOURCES.md` |
+|01| CPU Organization & Performance | [📖 Study Material](01_cpu_org_performance) |
+|02| ISA & Machine Instructions | [📖 Study Material](02_isa_machine_instructions) |
+|03| Addressing Modes | [📖 Study Material](03_addressing_modes) |
+|04| ALU & Integer Arithmetic | [📖 Study Material](04_alu_integer_arithmetic) |
+|05| Floating Point | [📖 Study Material](05_floating_point) |
+|06| Datapath & Micro-operations | [📖 Study Material](06_datapath_microoperations) |
+|07| Control Unit (Hardwired vs Microprogrammed) | [📖 Study Material](07_control_unit) |
+|08| Pipelining & Hazards | [📖 Study Material](08_pipelining_hazards) |
+|09| Memory Hierarchy | [📖 Study Material](09_memory_hierarchy) |
+|10| I/O, Interrupts & DMA | [📖 Study Material](10_io_interrupts_dma) |
+|11| Parallelism Basics | [📖 Study Material](11_parallelism_basics) |
+|12| Performance Patterns & Tips | [📖 Study Material](12_performance_patterns) |
+|📚| External Resources | [📚 Additional Resources](RESOURCES) |
 
 ## How to Use
 - First pass: Read summaries + solved examples.
@@ -63,4 +63,10 @@ Full derivations inside topic files.
 - IEEE 754 Standard (overview articles)
 - Cache visualization tools
 
-Proceed to `01_cpu_org_performance.md` →
+## Get Started
+👉 **Quick start**: Begin with [CPU Organization & Performance](01_cpu_org_performance)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
+
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility

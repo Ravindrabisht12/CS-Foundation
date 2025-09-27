@@ -17,25 +17,31 @@ This module provides a structured path to mastering programming fundamentals in 
 12. **Graphs:** Representing and working with network data.
 
 ## Quick Topic Index
-| # | Topic | File |
+| # | Topic | Link |
 |---|---|---|
-| 01 | C Programming Fundamentals | `01_c_programming_basics.md` |
-| 02 | Pointers and Memory | `02_pointers_and_memory.md` |
-| 03 | Recursion | `03_recursion.md` |
-| 04 | Arrays | `04_arrays.md` |
-| 05 | Structs and Unions | `05_structs_unions.md` |
-| 06 | Stacks | `06_stacks.md` |
-| 07 | Queues | `07_queues.md` |
-| 08 | Linked Lists | `08_linked_lists.md` |
-| 09 | Trees | `09_trees.md` |
-| 10 | Binary Search Trees (BST) | `10_binary_search_trees.md` |
-| 11 | Binary Heaps | `11_binary_heaps.md` |
-| 12 | Graphs | `12_graphs.md` |
-| R | External Resources | `RESOURCES.md` |
+| 01 | C Programming Fundamentals | [📖 Study Material](01_c_programming_basics) |
+| 02 | Pointers and Memory | [📖 Study Material](02_pointers_and_memory) |
+| 03 | Recursion | [📖 Study Material](03_recursion) |
+| 04 | Arrays | [📖 Study Material](04_arrays) |
+| 05 | Structs and Unions | [📖 Study Material](05_structs_unions) |
+| 06 | Stacks | [📖 Study Material](06_stacks) |
+| 07 | Queues | [📖 Study Material](07_queues) |
+| 08 | Linked Lists | [📖 Study Material](08_linked_lists) |
+| 09 | Trees | [📖 Study Material](09_trees) |
+| 10 | Binary Search Trees (BST) | [📖 Study Material](10_binary_search_trees) |
+| 11 | Binary Heaps | [📖 Study Material](11_binary_heaps) |
+| 12 | Graphs | [📖 Study Material](12_graphs) |
+| 📚 | External Resources | [📚 Additional Resources](RESOURCES) |
 
 ## How to Practice
 - **Implement Everything:** The best way to learn data structures is to implement them from scratch in C.
 - **Solve Problems:** Use platforms like LeetCode, HackerRank, or GeeksforGeeks to solve problems categorized by data structure.
 - **Visualize:** Use online visualizers to see how data structures change during operations.
 
-Proceed to `01_c_programming_basics.md` →
+## Get Started
+👉 **Quick start**: Begin with [C Programming Fundamentals](01_c_programming_basics)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
+
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility

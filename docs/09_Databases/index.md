@@ -2,21 +2,29 @@
 
 This folder contains a structured study guide for Database Management Systems (DBMS). The topics cover the core concepts from data modeling to transaction management.
 
-## Study Roadmap
+## Quick Topic Index
+| # | Topic | Description | Link |
+|---|-------|-------------|------|
+| 01 | Introduction to DBMS | DBMS basics, advantages over file systems, data models | [📖 Study Material](01_introduction_to_dbms) |
+| 02 | ER Model | Entity-Relationship model for conceptual database design | [📖 Study Material](02_er_model) |
+| 03 | Relational Model | Relations, tuples, attributes, keys, and constraints | [📖 Study Material](03_relational_model) |
+| 04 | Relational Algebra & Calculus | Formal query languages for relational databases | [📖 Study Material](04_relational_algebra_and_calculus) |
+| 05 | SQL | Standard database language - DDL, DML, DCL commands | [📖 Study Material](05_sql) |
+| 06 | Normalization | Data organization, normal forms (1NF, 2NF, 3NF, BCNF) | [📖 Study Material](06_normalization) |
+| 07 | File Organization & Indexing | Physical storage, B-Trees, B+ Trees for data retrieval | [📖 Study Material](07_file_organization_and_indexing) |
+| 08 | Transactions & Concurrency | ACID properties, locking, timestamping protocols | [📖 Study Material](08_transactions_and_concurrency_control) |
+| 📚 | External Resources | Curated learning materials and practice problems | [📚 Additional Resources](RESOURCES) |
 
-1.  **`01_introduction_to_dbms.md`**: Introduces the basics of DBMS, its advantages over file systems, and different data models.
-2.  **`02_er_model.md`**: Covers the Entity-Relationship model, a high-level data model used for conceptual database design.
-3.  **`03_relational_model.md`**: Details the most widely used data model, including concepts like relations, tuples, attributes, and keys.
-4.  **`04_relational_algebra_and_calculus.md`**: Explains the formal query languages for the relational model: Relational Algebra (procedural) and Tuple/Domain Relational Calculus (non-procedural).
-5.  **`05_sql.md`**: Covers the standard language for interacting with relational databases, including DDL, DML, and DCL commands.
-6.  **`06_normalization.md`**: Discusses the process of organizing columns and tables to minimize data redundancy, covering various normal forms (1NF, 2NF, 3NF, BCNF).
-7.  **`07_file_organization_and_indexing.md`**: Explains how data is physically stored on disk and the use of indexing structures like B-Trees and B+ Trees to speed up data retrieval.
-8.  **`08_transactions_and_concurrency_control.md`**: Covers the concept of transactions, ACID properties, and the protocols used to manage concurrent access to the database (e.g., locking, timestamping).
+## Database Design Lifecycle
+- **Conceptual Design**: ER modeling and requirement analysis
+- **Logical Design**: Relational model and normalization
+- **Physical Design**: File organization and indexing strategies
+- **Implementation**: SQL queries and transaction management
 
-## How to Use
+## Get Started
+👉 **Quick start**: Begin with [Introduction to DBMS](01_introduction_to_dbms)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
 
--   Follow the topics in numerical order for a coherent learning path.
--   Each file contains navigation links (`Prev`, `Next`, `Index`) at the bottom.
--   Check the `RESOURCES.md` file for a curated list of external learning materials.
-
-Happy learning!
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility

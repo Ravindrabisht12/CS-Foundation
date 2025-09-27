@@ -2,21 +2,29 @@
 
 This folder contains a structured study guide for Operating Systems (OS). The topics are organized to cover the core concepts of how an OS manages computer hardware and provides services for programs.
 
-## Study Roadmap
+## Quick Topic Index
+| # | Topic | Description | Link |
+|---|-------|-------------|------|
+| 01 | Introduction to OS | OS functions, types, and system architecture | [📖 Study Material](01_introduction_to_os) |
+| 02 | Processes and Threads | Process states, IPC, system calls, multithreading | [📖 Study Material](02_processes_and_threads) |
+| 03 | CPU Scheduling | FCFS, SJF, Priority, Round Robin scheduling algorithms | [📖 Study Material](03_cpu_scheduling) |
+| 04 | Concurrency & Synchronization | Mutexes, semaphores, monitors, critical sections | [📖 Study Material](04_concurrency_and_synchronization) |
+| 05 | Deadlock | Causes, prevention, avoidance, and detection | [📖 Study Material](05_deadlock) |
+| 06 | Memory Management | Paging, segmentation, memory allocation techniques | [📖 Study Material](06_memory_management) |
+| 07 | Virtual Memory | Demand paging, page replacement algorithms | [📖 Study Material](07_virtual_memory) |
+| 08 | File Systems | File structures, directories, disk scheduling | [📖 Study Material](08_file_systems) |
+| 📚 | External Resources | Curated learning materials and practice problems | [📚 Additional Resources](RESOURCES) |
 
-1.  **`01_introduction_to_os.md`**: What an OS is, its functions, and different types of operating systems.
-2.  **`02_processes_and_threads.md`**: Covers processes, threads, process states, inter-process communication (IPC), and system calls.
-3.  **`03_cpu_scheduling.md`**: Details the algorithms used by the OS to decide which process gets to use the CPU (e.g., FCFS, SJF, Priority, Round Robin).
-4.  **`04_concurrency_and_synchronization.md`**: Explains the challenges of concurrent execution and the mechanisms used to ensure data consistency (e.g., mutexes, semaphores, monitors).
-5.  **`05_deadlock.md`**: Discusses the problem of deadlock, including its causes, prevention, avoidance, and detection.
-6.  **`06_memory_management.md`**: Covers how the OS manages the main memory, including techniques like paging and segmentation.
-7.  **`07_virtual_memory.md`**: Explains how virtual memory allows a system to run programs larger than the physical memory, covering concepts like demand paging and page replacement algorithms.
-8.  **`08_file_systems.md`**: Details how data is stored and organized on secondary storage, including file structures, directory structures, and disk scheduling.
+## Core OS Concepts
+- **Process Management**: Process lifecycle, scheduling, synchronization
+- **Memory Management**: Physical/virtual memory, paging, segmentation
+- **Storage Management**: File systems, disk scheduling, I/O operations
+- **Security & Protection**: Access control, authentication, authorization
 
-## How to Use
+## Get Started
+👉 **Quick start**: Begin with [Introduction to OS](01_introduction_to_os)
+📚 **Need help?**: Check our [Resources & Practice Guide](RESOURCES)
 
--   Follow the topics in numerical order for a coherent learning path.
--   Each file contains navigation links (`Prev`, `Next`, `Index`) at the bottom.
--   Check the `RESOURCES.md` file for a curated list of external learning materials.
-
-Happy learning!
+## About File Structure
+- **index.md**: Main navigation page (this file) with clickable links
+- **README.md**: Backup/fallback content for compatibility
