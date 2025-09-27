@@ -6,6 +6,8 @@
 
 > **A comprehensive guide to Computer Science fundamentals for GATE CS and competitive programming**
 
+🌐 **Live Documentation**: [https://ravindrabisht12.github.io/CS-Foundation/](https://ravindrabisht12.github.io/CS-Foundation/)
+
 ## 🌟 About
 
 This repository contains detailed study materials covering all essential Computer Science topics for:
