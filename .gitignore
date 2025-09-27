@@ -84,7 +84,6 @@ dist
 
 # Gatsby files
 .cache/
-public
 
 # VitePress build output
 .vitepress/cache/
